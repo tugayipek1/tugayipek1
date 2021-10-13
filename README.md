@@ -8,5 +8,5 @@
 ### Contact
 <img align="left" alt="Tugay's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
 <a href="https://www.linkedin.com/in/tugay-ipek-5523ab188/" target="_blank">LinkedIn</a>
-
+<br />
 ![Profile views](https://gpvc.arturio.dev/tugayipek1) 
