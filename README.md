@@ -24,8 +24,5 @@
 
 
 ### Contact
-<img align="left" alt="Tugay's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
-<a href="https://www.linkedin.com/in/tugayipek/" target="_blank">LinkedIn</a>
-
-
+<a href="https://www.linkedin.com/in/tugayipek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
 
