@@ -1,12 +1,12 @@
-- 🔭 I’m currently working on **NLP**
+- 🔭 I’m currently working on **Erdemir-Production Planning**
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/tugayipek1?tab=repositories)
 
-- 💬 Ask me about **Java, Javascript, Vue.js**
+- 💬 Ask me about **Java, Javascript, Angular, Vue.js**
 
 - 📫 How to reach me **tgy_ipk@hotmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1t4zcfam3fNvK8Y1H9tsoXndjcxGeLet-/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1iuhNRNpL6jcp2NmNYDazFosbNhJYDDbg/view?usp=sharing)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tugayipek1)](https://github.com/tugayipek1/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugayipek1&layout=compact)](https://github.com/tugayipek1/github-readme-stats)
