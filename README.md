@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **tgy_ipk@hotmail.com**
 
+- 📝 My personal Web Site https://tugayipek1.github.io/TugayCv/
+
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1iuhNRNpL6jcp2NmNYDazFosbNhJYDDbg/view?usp=sharing)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tugayipek1)](https://github.com/tugayipek1/github-readme-stats)
