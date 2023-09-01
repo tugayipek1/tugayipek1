@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **tgy_ipk@hotmail.com**
 
-- 📝 My personal Web Site https://tugayipek1.github.io/TugayCv/
+- 📝 My personal Website https://tugayipek1.github.io/TugayCv/
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1iuhNRNpL6jcp2NmNYDazFosbNhJYDDbg/view?usp=sharing)
 
