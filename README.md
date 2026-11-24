@@ -24,4 +24,4 @@ I build enterprise systems end to end, from analysis and architecture to product
 
 #### Links
 
-[Website](https://tugayipek1.github.io) · [Resume (PDF)](https://tugayipek1.github.io/tugay-ipek-cv.pdf) · [LinkedIn](https://www.linkedin.com/in/tugayipek1/) · [tgy_ipk@hotmail.com](mailto:tgy_ipk@hotmail.com)
+[Website](https://tugayipek1.github.io) · [Resume](https://rxresu.me/tugay20666/tugay-ipek-cv) · [LinkedIn](https://www.linkedin.com/in/tugayipek1/) · [tgy_ipk@hotmail.com](mailto:tgy_ipk@hotmail.com)
